@@ -1,0 +1,23 @@
+{
+  "name": "adoptpets",
+  "version": "1.0.0",
+  "description": "This is the home for JSD Project 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueOCTOP/AdoptPets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueOCTOP/AdoptPets/issues"
+  },
+  "homepage": "https://github.com/blueOCTOP/AdoptPets#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
